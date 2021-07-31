@@ -10,7 +10,7 @@
 - 🥁 Hobby: Bateria <3
 
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dem%C3%A9trio-fragoso/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/demetrio-fragoso)
 
 
 ##### Languages / technologies
