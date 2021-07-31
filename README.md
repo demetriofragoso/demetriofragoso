@@ -1,4 +1,4 @@
-[![Header](https://media.giphy.com/media/Ob73jmEdAHUcDfYafv/giphy.gif)]
+![Header](https://media.giphy.com/media/Ob73jmEdAHUcDfYafv/giphy.gif)
 
 
 
