@@ -3,8 +3,9 @@
 
 
 ### Olá, eu sou Demétrio!
- - 🎓 Graduado em Administração.
-- 📊 Formado em Data Analytics(Resilia-Ifood).
+- 🎓 Graduado em Administração.
+- 🎓 Pós-Graduação(FIA) - IA e ANALYTICS - DATA SCIENCE (em andamento)
+- 📊 Bootcamp em Data Analytics(Resilia-Ifood).
 - 🔄 Atualmente estou em transição de carreira para aréa de Data Analytics/Business intelligence (BI), tenho experiência profissional anterior nas          aréas(negócio,controladoria). 
 - 🪐 Curiosidade: Apaixonado pela astronomia e suas infinitas possibilidades em nosso universo.
 - 🥁 Hobby: Bateria <3
